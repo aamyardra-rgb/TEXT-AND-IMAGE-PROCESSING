@@ -1,4 +1,4 @@
 # TEXT-AND-IMAGE-PROCESSING
 PROJECTS 
 - Spam Email Detection
-- Twitter reviews validation-Sentiment Analysis
+- Twitter reviews validation-Sentiment Analysis -L
